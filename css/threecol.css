@@ -1,0 +1,21 @@
+/*Three Column css, no margins*/
+@charset "utf-8";
+#left {
+	padding-left: 0px;
+	width: 33%;
+	float: left;
+	padding-top:0px;
+	margin:0px;
+}
+#newCenter {
+	float:left;
+	width:33%;
+	padding-top:0px;
+	margin:0px;
+}
+#newRight {
+	float:left;
+	margin:0px;
+	width:33%;
+	padding-top:0px;
+}

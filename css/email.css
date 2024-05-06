@@ -1,0 +1,70 @@
+@charset "utf-8";
+a.a_footer {
+	color: #ccc;
+	text-decoration: none;
+}
+#footlet {
+	position:absolute;
+	width:100%;
+	height:60px;
+	z-index:9;
+	left: 0;
+	/*background-color: #AFB6B6;*/
+
+	background-color: #C5C9C9;
+	bottom: 0px;
+	color: #666;
+	text-align: center;
+	vertical-align: middle;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #EAEAEA;
+}
+#foot {
+	padding-top: 5px;
+	padding-bottom: 3px;
+	text-align: center;
+}
+.footercontract .a_footer img {
+	background-image: url(../img/Email_Image_Unselected.png);
+	border: none;
+}
+.footercontract img {
+	vertical-align: bottom;
+	background-image: url(../img/Email_Image_Unselected.png);
+	border: none;
+	background-repeat: no-repeat;
+}
+#emailadd {
+	vertical-align: bottom;
+	border: none;
+	padding: 0;
+	margin-bottom: 1px;
+}
+.footercontract img:hover {
+	vertical-align: bottom;
+	background-image: url(../img/Email_Image_Selected.png);
+	border: none;
+	background-repeat: no-repeat;
+}
+.footercontract .a_footer img:hover {
+	background-image: url(../img/Email_Image_Selected.png);
+	border: none;
+}
+.elabel {
+	text-align: right;
+	padding-right: 8px;
+}
+#eform {
+	position: relative;
+	margin-top: 35;
+	margin-right: auto;
+	margin-bottom: 35;
+	margin-left: auto;
+	padding-top: 35px;
+}
+#eform table {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+}

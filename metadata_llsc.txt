@@ -1,0 +1,22 @@
+<meta name="keywords" content="
+Lynn L. Samuels,
+Lynn Samuels,
+LLS Consulting,
+Helping Leaders Lead,
+SMB,
+Small to Medium Business,
+San Francisco,
+San Francisco Bay Area,
+Organization Capability,
+Leadership,
+Team Effectiveness,
+Skills Assessment,
+Leadership Skills,
+Executive Recruitment,
+Strategic Planning" />
+<meta name="description" content="LLS Consulting" />
+<meta name="DC.Rights" content="Copyright 2004-2011, Lynn L. Samuels" />
+<meta name="DC.Creator" content="RedHeart Images" /> 
+<meta name="DC.Date" content="2011-07-10" /> 
+<meta name="geo.region" content="US-CA" />
+<meta name="geo.placename" content="San Francisco, Oakland, Danville, San Francisco Bay Area, East Bay, Penninsula, Bay Area" />
